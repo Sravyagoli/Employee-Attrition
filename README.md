@@ -1,4 +1,4 @@
-# 👥 Employee Attrition Prediction
+# 👥 HR Workforce Attrition Dashboard
 
 A machine learning project that analyzes and predicts employee attrition using the IBM HR Analytics dataset. The goal is to identify key factors that contribute to employee turnover and build a classification model to predict whether an employee is likely to leave the company.
 
